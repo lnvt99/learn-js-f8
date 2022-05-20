@@ -1,16 +1,3 @@
 {
-    "courses" :[
-        {
-            "id": 1, "name": "JavaScript", "year": 2022
-        },
-        {
-            "id": 2, "name": "Java", "year": 2019
-        },
-        {
-            "id": 3, "name": "C#", "year": 2021
-        },
-        {
-            "id": 4, "name": "Python", "year": 2022
-        }
-    ]
+  "courses": []
 }
